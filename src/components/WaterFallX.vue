@@ -12,9 +12,6 @@
     @click="clickFn" 
     @preloaded="preloaded">
       <div class="img-info"  slot-scope="props" :index="props.index">
-        <!-- <p class="some-info">picture index: {{props.index}}</p>
-        <p class="some-info">{{props.value.info}}</p>
-        <p v-if="props.index%2==0" class="some-info">{{props.value.info}}</p> -->
         <span class="label-span" v-for="(item,i) in imgsArr[props.index].labelList" :key="i">{{item.text}}</span>
       </div>
     </vue-waterfall-easy>
