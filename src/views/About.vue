@@ -27,7 +27,7 @@ export default {
       maxCols: 8,
       gap: 16,
       imgWidth: 230,
-      reFresh: true,
+      reFresh: false,
     }
   },
   methods:{
@@ -45,6 +45,7 @@ export default {
   mounted(){
     this.width = $('.about').width();
     this.height = $('.about').height() ;
+    this.reFresh = true;
     window.onresize = ()=>{
       this.width = $('.about').width();
       this.height = $('.about').height() ;

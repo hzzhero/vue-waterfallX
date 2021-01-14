@@ -201,10 +201,11 @@ export default {
 
   },
   created() {
-    // this.getData()
+    console.log(this.width);
     this.imgWidth = (this.width - 48 - (this.maxCols -1)* this.gap)/this.maxCols;
   },
   mounted(){
+
   }
 }
 </script>
