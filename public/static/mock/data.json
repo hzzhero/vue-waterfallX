@@ -1,0 +1,164 @@
+[
+  {
+    "src": "/static/img/1.jpg",
+    "tpId": "1",
+    "labelList":[
+      {
+        "originX": 40,
+        "originY": 40,
+        "color": "red",
+        "width": 50,
+        "height": 40,
+        "text": "Cat"
+      },
+      {
+        "originX": 60,
+        "originY": 90,
+        "color": "orange",
+        "width": 50,
+        "height": 40,
+        "text": "Dog",
+        "shapeType":"ELLIPSE"
+      }
+    ]
+
+  },
+  {
+    "src": "/static/img/2.jpg",
+    "tpId": "2",
+    "labelList":[
+      {
+        "originX": 20,
+        "originY": 40,
+        "color": "blue",
+        "width": 50,
+        "height": 40,
+        "text": "Dog"
+      }
+    ]
+  },
+  {
+    "src": "/static/img/3.jpg",
+    "tpId": "3",
+    "labelList":[
+      {
+        "originX": 20,
+        "originY": 40,
+        "color": "red",
+        "width": 50,
+        "height": 40,
+        "text": "Dog",
+        "shapeType":"ELLIPSE"
+      }
+    ]
+  },
+  {
+    "src": "/static/img/4.jpg",
+    "tpId": "4",
+    "labelList":[
+      {
+        "originX": 20,
+        "originY": 40,
+        "color": "blue",
+        "width": 50,
+        "height": 40,
+        "text": "Cat"
+      }
+    ]
+  },
+  {
+    "src": "/static/img/5.jpg",
+    "tpId": "5",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/6.jpg",
+    
+    "tpId": "6",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/7.jpg",
+    
+    "tpId": "7",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/8.jpg",
+    
+    "tpId": "8",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/9.jpg",
+    
+    "tpId": "9",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/10.jpg",
+    
+    "tpId": "10",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/11.jpg",
+    
+    "tpId": "11",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/12.jpg",
+    
+    "tpId": "12",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/13.jpg",
+    
+    "tpId": "13",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/14.jpg",
+    
+    "tpId": "14",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/15.jpg",
+    
+    "tpId": "15",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/16.jpg",
+    
+    "tpId": "16",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/17.jpg",
+    
+    "tpId": "17",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/18.jpg",
+    
+    "tpId": "18",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/19.jpg",
+    
+    "tpId": "19",
+    "info": "一些图片描述文字"
+  },
+  {
+    "src": "/static/img/20.jpg",
+    
+    "tpId": "20",
+    "info": "一些图片描述文字"
+  }
+]
